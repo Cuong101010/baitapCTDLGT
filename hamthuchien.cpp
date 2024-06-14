@@ -1,4 +1,4 @@
-else if (choice == 2) {
+if (choice == 2) {
         int choice2;
 
         while (1) {
